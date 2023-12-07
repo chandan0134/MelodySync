@@ -2,7 +2,7 @@ import React from 'react'
 
 function Player() {
   return (
-    <div>P</div>
+    <div className='screen-container'>P</div>
   )
 }
 

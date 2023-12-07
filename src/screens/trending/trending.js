@@ -2,7 +2,7 @@ import React from 'react'
 
 function Trending() {
   return (
-    <div>HDVBV</div>
+    <div className='screen-container'>HDVBV</div>
   )
 }
 
